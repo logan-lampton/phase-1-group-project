@@ -1,0 +1,11 @@
+#display {
+    align-items: center;
+    margin-left: 550px;
+    width: 50%;
+    height: 50%;
+  }
+   body {
+    background: rgb(225, 223, 223);
+    width: 1000px;
+    height: 1000px
+}
